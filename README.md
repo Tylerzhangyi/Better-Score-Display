@@ -25,9 +25,10 @@
 
 1. **下载或克隆项目**
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:Tylerzhangyi/Better-Score-Display.git
    cd better-score-display
    ```
+   或者直接选择 `Download ZIP`
 
 2. **打开 Chrome 扩展管理页面**
    - 在 Chrome 浏览器地址栏输入：`chrome://extensions/`
@@ -135,5 +136,6 @@ A: 在 `chrome://extensions/` 页面找到扩展，点击"移除"按钮即可。
 
 
 ## 免责声明
-##出了事不要找我
+出了事不要找我,我什么也不知道
+有问题请反馈: tyler.zhangyi@yungu.org
 
